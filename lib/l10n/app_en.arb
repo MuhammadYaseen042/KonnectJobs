@@ -1,0 +1,118 @@
+{
+  "logIn": "Login",
+  "getStarted":"Let's get started",
+  "lilBit":"A lil bit about yourself",
+  "enterNo":"Please enter your mobile number",
+  "verifyButton":"Verify",
+  "sendCode":"A 6-digit code has been sent to your number",
+  "notReceived":"Didn't you receive any code?",
+  "sendOtp":"Resend OTP",
+  "countDown":"Time remaining 00:{time}",
+  "congrats":"Congratulations",
+  "accountCreated":"Account has been successfully created",
+
+  "name":"Name",
+  "cnic":"CNIC",
+  "gender":"Gender",
+  "male":"Male",
+  "female":"Female",
+  "country":"Country",
+  "state":"State",
+  "city":"City",
+  "dateOfBirth":"Date of Birth",
+  "submitButton":"Submit",
+
+  "choseOption":"Choose one option",
+  "mainCategoryWorker":"Work category",
+  "subCategoryWorker":"Work sub categories",
+  "hire":"Hire a Worker",
+  "findjob":"Find a Job",
+  "choseCat":"Choose Category",
+  "cleaning":"Cleaning",
+  "sweeping":"Sweeping",
+  "digging":"Digging",
+  "concretemixing":"Concrete mixing",
+  "carpenter":"Carpenter",
+  "blacksmith":"Blacksmith",
+  "painter":"Painter",
+  "electrician":"Electrician",
+  "marblework":"Marble Work",
+
+  "anySkill":"Do you have any other skill?",
+  "monthlyincome":"Monthly income",
+  "workExperience":"Working Experience",
+
+  "detailsButton":"Details",
+  "verified":"Verified job",
+
+    "search":"Search",
+    "savedJobs":"Saved Jobs",
+    "mostRecebt":"Most Recent",
+    "bestMatches":"Best Matches",
+    "budget":"Budget",
+    "longTerm":"Long project",
+    "hourAgo":"Hour ago",
+    "jobs":"Jobs",
+    "post":"post",
+    "map":"Google Maps",
+    "notifications":"Notifications",
+    "title":"I need a cleaner",
+
+    "congrats":"Congratulations",
+    "jobApplied":"Great you have applied on this job",
+
+
+
+    "govSchemes":"Government Schemes",
+    "myprof":"My profile",
+    "learnNewSkill":"Learn New Skills",
+    "myjobs":"My jobs",
+    "payment":"Payment",
+    "changeLang":"Change Language",
+    "accountSet":"Account Setting",
+    "helpFeed":"Help & FeedBack",
+    "logout":"Logout",
+
+"selectTitleCreatJob":"Please select a title",
+"selectTitle":"Select a title",
+"jobDescrip":"Describe your job",
+"hintJobDes":"e.g I want an electrician for long term project",
+"tellUsBudget":"Tell us about your budget",
+"maxBudget":"Maximum Budget",
+"selectLevelExp":"Select level of experience",
+"howLongWork":"How long your work will take",
+"workDuration":"Work Duration",
+
+"worker":"Worker",
+"client":"Client",
+"joinAs":"Do you want to join as a worker or client?",
+"savedJobs":"Saved Jobs",
+"mostRecent":"Most Recents",
+"bestMatches":"Best Matches",
+"longPro":"Long project",
+"hourAgo":"Hour ago",
+
+
+"update":"Update",
+"submit":"Submit",
+"delete":"Delete",
+"create":"Create",
+
+"pending":"Pending",
+"completed":"Completed",
+"applied":"Applied",
+"posted":"Posted",
+
+
+
+
+"chat":"Chat",
+"messages":"Messages",
+"typeSomething":"Type Something......",
+
+
+
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}

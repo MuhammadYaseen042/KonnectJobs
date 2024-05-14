@@ -1,0 +1,110 @@
+{
+  "logIn": "لاگ ان کریں",
+  "getStarted": "آو شروع کریں",
+  "lilBit": "اپنے بارے میں تھوڑا سا",
+  "enterNo": "براہ کرم اپنا موبائل نمبر درج کریں",
+  "verifyButton": "تصدیق کریں",
+  "sendCode":"آپ کے نمبر پر 6 ہندسوں کا کوڈ بھیجا گیا ہے",
+  "notReceived": "کیا آپ کو کوئی کوڈ موصول نہیں ہوا؟",
+  "sendOtp": "OTP دوبارہ بھیجیں",
+  "countDown": "باقی وقت 00:,{time}",
+  "congrats":"مبارک ہو",
+  "accountCreated":"اکاؤنٹ کامیابی کے ساتھ بن گیا ہے",
+   "name":"نام",
+    "cnic": "CNIC",
+    "gender": "جنس",
+    "male": "مرد",
+    "female":"عورت",
+    "country": "ملک",
+    "state": "ریاست",
+    "city": "شہر",
+    "dateOfBirth": "تاریخ پیدائش",
+    "submitButton": "جمع کروائیں",
+
+"choseOption": "ایک اختیار منتخب کریں",
+"mainCategoryWorker":"اپنے کام کا مرکزی زمرہ منتخب کریں۔",
+  "subCategoryWorker":"اپنے کام کے ذیلی زمرے منتخب کریں۔",
+  "hire":"مزدور کی خدمات حاصل کریں",
+  "findjob": "نوکری کی  تلاش کریں",
+  "choseCat": "زمرہ منتخب کریں",
+  "cleaning": "صفائی",
+  "sweeping": "جھاڑو لگانا",
+  "digging": "کھدائی",
+  "concrete mixing": "کنکریٹ مکسنگ",
+  "carpenter": "بڑھئی",
+  "blacksmith": "لوہار",
+  "painter":"پینٹر",
+  "electrician":"الیکٹریشن",
+  "marblework":"ماربل ورک",
+
+"anySkill": "کیا آپ کے پاس کوئی اور ہنر ہے؟",
+  "monthlyincome": "ماہانہ آمدنی",
+  "workExperience": "کام کرنے کا تجربہ",
+
+  "detailsButton": "تفصیلات",
+  "verified": "تصدیق شدہ کام",
+
+"search": "تلاش",
+"savedJobs": "محفوظ کردہ نوکریاں",
+"mostRecebt": "حالیہ ترین",
+"bestMatches": "بہترین میچز",
+"budget": "بجٹ",
+"longTerm": "طویل منصوبہ",
+"hourAgo":"1 گھنٹہ پہلے",
+"jobs": "نوکریاں",
+"post":"پوسٹ",
+"map": "گوگل میپس",
+"notifications": "اطلاعات",
+"title":"مجھے ایک کلینر چاہیے",
+
+
+    "govSchemes":"سرکاری اسکیمیں",
+    "myprof":"میری پروفائل",
+    "learnNewSkill":"نئی مہارتیں سیکھیں۔",
+    "myjobs":"میری نوکریاں",
+    "payment":"رقم کی ادائیگی",
+    "changeLang":"زبان تبدیل کریں",
+    "accountSet":"اکاؤنٹ کی ترتیب",
+    "helpFeed":"مدد اور فیڈ بیک",
+    "logout":"لاگ آوٹ",
+
+"selectTitleCreatJob":"براہ کرم ایک عنوان منتخب کریں۔",
+"jobDescrip":"اپنے کام کی وضاحت کریں۔",
+"hintJobDes":"مثال کے طور پر میں طویل مدتی پروجیکٹ کے لیے الیکٹریشن چاہتا ہوں۔",
+"tellUsBudget":"اپنے بجٹ کے بارے میں بتائیں",
+"maxBudget":"زیادہ سے زیادہ بجٹ",
+"selectLevelExp":"تجربہ کی سطح منتخب کریں۔",
+"howLongWork":"آپ کے کام میں کتنا وقت لگے گ۔",
+"workDuration":"کام کا دورانیہ",
+
+"worker":"مزدور",
+"client":"کلائنٹ",
+"joinAs":"کیا آپ کلائنٹ یا مزدور کے طور پر شامل ہونا چاہتے ہیں؟",
+"savedJobs":"Saved Jobs",
+"mostRecent":"سب سے حالیہ",
+"bestMatches":"بہترین میچز",
+"longPro":"طویل پروجیکٹ",
+"hourAgo":"گھنٹہ پہلے",
+
+"update":"اپ ڈیٹ",
+"submit":"جمع کروائیں",
+"delete":" ڈیلیٹ",
+"create":"بنانا",
+
+"pending": "زیرِ عمل کام",
+"completed": "مکمل شدہ کام",
+"applied": "درخواست دی گئی کام",
+"posted": "شائع شدہ کام",
+
+
+"chat":"بات چیت",
+"messages":"پیغامات",
+"typeSomething":"کچھ ٹائپ کریں۔۔۔۔۔۔",
+
+
+
+
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}

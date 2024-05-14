@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365201742372",
+    "project_id": "konnectjob-95430",
+    "storage_bucket": "konnectjob-95430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365201742372:android:19046a8cb774bd835256b1",
+        "android_client_info": {
+          "package_name": "com.example.konnect_job_final_year_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6NzFoE0OwBQZ-RrtEW8EXJKyXD_hFidE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
